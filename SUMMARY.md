@@ -64,5 +64,4 @@
   * [Testing en React](react/testing-en-react.md)
 * [Tip 1- Diseñando un producto Web desde Cero](geek-tip-1-disenando-un-producto-web-desde-cero.md)
 * [Tip 2 - Control de versiones](geek-tip-2-control-de-versiones.md)
-* [Reto Grupal - Dominio Fundamentos Web](reto-grupal-dominio-fundamentos-web.md)
 
